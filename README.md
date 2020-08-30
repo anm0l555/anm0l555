@@ -1,5 +1,5 @@
 ### Hi there 👋, I am anm0l555
-<img align="right" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" height="450" width="350">
+<img align="right" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" height="430" width="350">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anm0l555&label=Views&color=blue&style=plastic" alt="anm0l555" /> </p>
 
 Hey! I am Anmol Tiwari. I am a FRONTEND WEB DEVELOPER and an ADOBE XD designer, Ethical Hacking and ML enthusiast✨ from India.
