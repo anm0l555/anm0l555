@@ -36,3 +36,12 @@ Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethi
 [instagram]: https://www.instagram.com/anm0l1502/
 [linkedin]: https://www.linkedin.com/in/anmol-tiwari-182b77192/
 
+<br />
+<br />
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="anm0l555's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anm0l555&show_icons=true&hide_border=true" />
+
+</details>
+
