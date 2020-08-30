@@ -1,6 +1,7 @@
 ### Hi there 👋, I am anm0l555
-Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethical hacking and ML enthusiast✨ from India.
+<img align="right" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" height="450" width="400">
 
+Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethical hacking and ML enthusiast✨ from India.
 
 - 🔭 I’m currently working on health portals.
 - 🌱 I’m currently learning Machine learning.
