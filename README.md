@@ -1,5 +1,5 @@
 ### Hi there 👋, I am anm0l555
-<img align="right" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" height="360" width="350">
+<img align="right" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" height="450" width="350">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anm0l555&label=Views&color=blue&style=plastic" alt="anm0l555" /> </p>
 
 Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethical hacking and ML enthusiast✨ from India.
@@ -11,6 +11,13 @@ Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethi
 - 📫 How to reach me: anmoltiwari555@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love listening to music and play guitar.
+
+
+### Spotify Playing🎧
+[![Spotify](https://novatorem.anm0l555.vercel.app/api/spotify)](https://open.spotify.com/user/wccyzn9wh6r8ymrrkl1yoxrks)
+
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="anm0l555 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,6 +25,8 @@ Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethi
 [<img align="left" alt="anm0l555 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+
 
 ### Languages and Tools:
 
