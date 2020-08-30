@@ -2,7 +2,7 @@
 Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethical hacking and ML enthusiast✨ from India.
 
 
-- 🔭 I’m currently working on frontend.
+- 🔭 I’m currently working on health portals.
 - 🌱 I’m currently learning Machine learning.
 - 💬 Ask me about anything related to my field. Happy to help😊
 - 📫 How to reach me: anmoltiwari555@gmail.com
