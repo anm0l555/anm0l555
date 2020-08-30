@@ -1,6 +1,6 @@
 ### Hi there 👋, I am anm0l555
 <img align="right" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" height="400" width="350">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anm0l555&label=Views&color=blue&style=plastic" alt="anm0l555" /> </p>
 
 Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethical hacking and ML enthusiast✨ from India.
 
@@ -41,10 +41,7 @@ Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethi
 
 <br />
 <br />
-<details>
-  <summary>:zap: Github Stats</summary>
+<img align="left" alt="anm0l555's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anm0l555&show_icons=true&theme=radical" />
 
-  <img align="left" alt="anm0l555's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anm0l555&show_icons=true&theme=radical" />
 
-</details>
 
