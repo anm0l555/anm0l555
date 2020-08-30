@@ -1,5 +1,5 @@
 ### Hi there 👋, I am anm0l555
-<img align="right" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" height="400" width="350">
+<img align="right" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" height="360" width="350">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anm0l555&label=Views&color=blue&style=plastic" alt="anm0l555" /> </p>
 
 Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethical hacking and ML enthusiast✨ from India.
@@ -31,6 +31,7 @@ Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethi
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/54709833/91669284-5928ea80-eb31-11ea-9ddf-999d403d0481.png" />
 
 <br />
 
