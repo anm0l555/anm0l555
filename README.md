@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" height="450" width="350">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anm0l555&label=Views&color=blue&style=plastic" alt="anm0l555" /> </p>
 
-Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethical hacking and ML enthusiast✨ from India.
+Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, Ethical Hacking and ML enthusiast✨ from India.
 
 
 - 🔭 I’m currently working on health portals.
@@ -10,7 +10,7 @@ Hey! I am Anmol Tiwari. I am a FRONTEND DEVELOPER and an ADOBE XD designer, ethi
 - 💬 Ask me about anything related to my field. Happy to help😊
 - 📫 How to reach me: anmoltiwari555@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love listening to music and play guitar.
+- ⚡ Fun fact: I love to listen music and play guitar.
 
 
 ### Spotify Playing🎧
