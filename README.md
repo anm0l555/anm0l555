@@ -16,8 +16,6 @@ Hey! I am Anmol Tiwari. I am a FRONTEND WEB DEVELOPER and an ADOBE XD designer, 
 ### Spotify Playing🎧
 [![Spotify](https://novatorem.anm0l555.vercel.app/api/spotify)](https://open.spotify.com/user/wccyzn9wh6r8ymrrkl1yoxrks)
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="anm0l555 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
