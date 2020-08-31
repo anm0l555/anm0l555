@@ -7,7 +7,7 @@ Hey! I am Anmol Tiwari. I am a FRONTEND WEB DEVELOPER and an ADOBE XD designer, 
 
 - 🔭 I’m currently working on health portals.
 - 🌱 I’m currently learning Machine learning.
-- 💬 Ask me about anything related to my field. Happy to help😊
+- 💬 Ask me about anything . Happy to help😊
 - 📫 How to reach me: anmoltiwari555@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to listen music and play guitar.
