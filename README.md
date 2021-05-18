@@ -38,7 +38,7 @@ Hey! I am Anmol Tiwari. I am a MERN DEVELOPER, Ethical Hacking and ML enthusiast
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 <br />
-
+<br />
 
 [twitter]: https://twitter.com/Anmol30777677
 [instagram]: https://www.instagram.com/anm0l1502/
