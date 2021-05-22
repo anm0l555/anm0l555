@@ -46,8 +46,10 @@ Hey! I am Anmol Tiwari. I am a MERN DEVELOPER, Ethical Hacking and ML enthusiast
 
 <br />
 <br />
+<!-- <br /> -->
 
-<img align="left" alt="anm0l555's Github Stats" src="https://github-readme-stats.anm0l555.vercel.app/api?username=anm0l555&show_icons=true&theme=radical" />
+<img align="left" alt="anm0l555's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anm0l555&show_icons=true&theme=radical&count_private=true" />
 
 
-
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anm0l555)](https://github.com/anm0l555/github-readme-stats)
+ -->
