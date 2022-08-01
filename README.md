@@ -2,13 +2,13 @@
 <img align="right" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" height="430" width="350">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anm0l555&label=Views&color=blue&style=plastic" alt="anm0l555" /> </p>
 
-Hey! I am Anmol Tiwari. I am a MERN DEVELOPER, Ethical Hacking and ML enthusiast✨ from India.
+Hey! I am Anmol Tiwari. I am a Frontend DEVELOPER, Ethical Hacking and ML enthusiast✨ from India.
 
 
 - 🔭 I’m currently working on health portals.
 - 🌱 I’m currently learning ML.
 - 💬 Ask me about anything . Happy to help😊
-- 📫 How to reach me: anmoltiwari555@gmail.com
+- 📫 How to reach me: maradoxcoding@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to listen music and play guitar.
 
