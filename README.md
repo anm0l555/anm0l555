@@ -5,8 +5,8 @@
 Hey! I am Anmol Tiwari. I am a Frontend DEVELOPER, Ethical Hacking and ML enthusiast✨ from India.
 
 
-- 🔭 I’m currently working on health portals.
-- 🌱 I’m currently learning ML.
+- 🔭 I’m currently working on blockchain portals.
+- 🌱 I’m currently learning automation in python.
 - 💬 Ask me about anything . Happy to help😊
 - 📫 How to reach me: maradoxcoding@gmail.com
 - 😄 Pronouns: he/him
